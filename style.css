@@ -9,7 +9,8 @@ div {
  margin:auto;
  font-family:"Helvetica Neue";
  background:white;
- padding:30px;/* Your code here! */
+ padding:30px;
+ /* Your code here! */
 }
 
 /* ID selector to select the element with id 'main-header' */
